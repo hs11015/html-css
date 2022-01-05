@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@800&family=Nanum+Pen+Script&display=swap');
+
+.home {
+    font-family: "Nanum Pen Script";
+    font-size: 1.5em;
+}
+
+.playlist {
+    font-family: "Nanum Pen Script";
+    font-size: 1.5em;
+}
+
+.name {
+    font-family: 'Nanum Myeongjo';
+}
+
+h1 {
+    color:blue; background-color: lightpink;
+    border-top: 2px solid red; border-bottom: 2px solid red; border-left: 2px solid red; border-right: 2px solid red;
+}
+
+.daily {
+    font-family: "Nanum Pen Script";
+    font-size: 1.6em;
+}
+
+body {
+    background-color: lightblue;
+}
